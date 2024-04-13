@@ -1,0 +1,14 @@
+# requirements.txt
+
+# Specify the required Python version
+python_version >= 3.6
+
+# Deep learning frameworks
+tensorflow >= 2.0
+keras >= 2.0
+
+# Image processing libraries
+opencv-python >= 4.5
+
+# Other dependencies
+tqdm >= 4.0
