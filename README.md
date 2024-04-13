@@ -21,7 +21,6 @@ The project consists of the following main components:
    - Optionally, perform data augmentation or preprocessing techniques if necessary.
 
 2. **Model Training**:
-   - Run the training script (`train_model.py`) to train the deep learning model on the training dataset.
    - Adjust hyperparameters, such as dropout rate, learning rate, and optimizer settings, as needed.
 
 3. **Model Evaluation**:
